@@ -1,0 +1,12 @@
+body{
+    background: skyblue;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 15 15 15 15;
+
+}
+tr:nth-child(even){
+    background: white;
+}

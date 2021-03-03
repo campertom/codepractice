@@ -1,0 +1,1 @@
+UninstallerTool.exe -product snagit

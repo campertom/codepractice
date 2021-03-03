@@ -1,0 +1,15 @@
+<Configuration> 
+<Add OfficeClientEdition="64" Channel="Monthly" SourcePath="<SharePath>">
+<Product ID="O365ProPlusRetail">
+      <Language ID="en-US" /> 
+</Product> 
+<Product ID="VisioProRetail">
+      <Language ID="en-us" />
+    </Product>
+</Add> 
+<Updates Enabled="True" /> 
+<Display Level="None" AcceptEULA="True" /> 
+<Property Name="AutoActivate" Value="1" /> 
+<Property Name="ForceAppShutdown" Value="True" /> 
+<RemoveMSI />
+</Configuration>

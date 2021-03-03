@@ -1,0 +1,10 @@
+Okay, so here's some ideas for formatting. Don't know if we can add the amount of days ago since the post was made? It's not really necessary though. Anyway, these are just some formatting ideas to give visual interest and some separation between elements.
+
+So basically all I did was: 
+Added an intro sentence for the email
+Titles are orange, 20pt font
+Subtitles (i.e. post name/link) is green, 14 pt font
+Posted By: Name becomes bolded, name still italicized, and that entire line is dark gray, 11 pt font
+Body of the post is dark gray, 12 pt font, and indented once
+Links within a post are left the default blue
+The posts from the last three weeks is almost the same as it was. Just added a title, made to fit the colors and the "posted by" text made 11 pt instead of 12
