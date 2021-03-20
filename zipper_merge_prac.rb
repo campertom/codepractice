@@ -1,6 +1,5 @@
 ary = [1,2,3,4]
-ary2 = ['a','b','c','d']
-puts ary
+ary2 = ['a','b','c','d','e','f','g']
 
-puts ary2.zip(ary)
 
+puts ary.zip(ary2)

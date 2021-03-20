@@ -1,16 +1,12 @@
-ECHO SOURCE BRANCH IS %NerveBranch%
+@echo on  
 
-ECHO GIT CHECKOUT MAIN
-git checkout main
-ECHO GIT STATUS
-git status
-ECHO GIT MERGE
-git merge %NerveBranch% -m "Merge to main"
-ECHO GIT STATUS
-git status
+ECHO GIT ADD .
+git add .
+
+ECHO GIT COMMIT -m "blah"
+git commit -m "blah"
 ECHO GIT PUSH
 git push origin
 ECHO GIT STATUS
 git status
-
 

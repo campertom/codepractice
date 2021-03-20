@@ -10,5 +10,5 @@ def does_something(s):
                 return False
     return True
 print(does_something("abc123"))
-print(does_something("(804)8675309"))
+print(does_something("123-12-1234"))
 print(does_something("111223333"))
