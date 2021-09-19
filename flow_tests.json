@@ -1,0 +1,1 @@
+{"body":"<span style=color: green; font-size:18px><b>@{item()?['subject']}</b></span></br><span style=color:DarkGray; font-size: 11pt;><b>Posted By:<i>  @{item()?['from']?['user']?['displayName']} </i></b>on @{ formatDateTime(item()?['createdDateTime'],'MM-dd-yyyy')}<blockquote> @{item()?['body']}</blockquote></span>"}
