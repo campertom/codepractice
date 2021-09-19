@@ -1,0 +1,2 @@
+I'm a test file with some content
+I have to be told ctrl + z to save and store

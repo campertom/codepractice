@@ -1,0 +1,4 @@
+WP_passnote
+database name - Whopper
+tdizzle2021
+pass - random2014
